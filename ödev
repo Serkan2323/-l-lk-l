@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iletişim sayfası</title>
+    <link rel="stylesheet" href="stil.css">
+</head>
+<body>
+    <style type="text/CSS"></style>
+<form action="http:/iletişim bilgi.com/kaydet.html"class="tasarim1">
+<label for="ad">adınız</label>
+<input type="text" name="ad" id="ad">
+<label for="sad">soyadınız</label>
+<input type="text" name="sad" id="sad">
+<label for="sad">e posta</label>
+<input type="text" name="e posta" id="e posta">
+<label for="sad">telefon no</label>
+<input type="text" name="telefon no" id="telefon no">
+<label for="sad">açıklama</label>
+
+<input type="text" name="açıklama" id="açılama">
+<label></label>
+<input type="submit" name="kaydet" id="kaydet" value="kaydı tamamla">
+</form>
+</body>
+</html>
